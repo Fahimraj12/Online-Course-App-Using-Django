@@ -37,14 +37,11 @@ cp .env.example .env
 4. Push to branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-🙏 Acknowledgments
-Django Software Foundation
+## 🙏 Acknowledgments
+- Django Software Foundation
+- Bootstrap team for the frontend framework
+- All contributors and testers
+- Open source community for invaluable resources
 
-Bootstrap team for the frontend framework
-
-All contributors and testers
-
-Open source community for invaluable resources
-
-📞 Support
-For support, email support@onlinecourses.com or open an issue in the GitHub repository.
+## 📞 Support
+- For support, email mofahimraj@gmail.coms or open an issue in the GitHub repository.
