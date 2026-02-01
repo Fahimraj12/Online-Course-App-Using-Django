@@ -20,12 +20,20 @@ python -m venv venv
 venv\Scripts\activate
 # On Mac/Linux:
 source venv/bin/activate
-
 ```
-Step 3: Install Dependencies
-bash
+- Step 3: Install Dependencies
+```
 pip install -r requirements.txt
-Step 4: Environment Configuration
-bash
+```
+- Step 4: Environment Configuration
+```
 cp .env.example .env
 # Edit .env with your configuration
+```
+## 🤝 Contributing
+1. Fork the repository
+2. Create a feature branch (git checkout -b feature/AmazingFeature)
+3. Commit changes (git commit -m 'Add some AmazingFeature')
+4. Push to branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
