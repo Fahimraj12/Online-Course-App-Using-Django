@@ -45,3 +45,7 @@ cp .env.example .env
 
 ## 📞 Support
 - For support, email mofahimraj@gmail.coms or open an issue in the GitHub repository.
+
+###### ⭐ If you find this project useful, please give it a star on GitHub! ⭐
+
+###### Built with ❤️ using Django
