@@ -20,3 +20,12 @@ python -m venv venv
 venv\Scripts\activate
 # On Mac/Linux:
 source venv/bin/activate
+
+```
+Step 3: Install Dependencies
+bash
+pip install -r requirements.txt
+Step 4: Environment Configuration
+bash
+cp .env.example .env
+# Edit .env with your configuration
